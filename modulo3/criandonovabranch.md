@@ -10,5 +10,4 @@ Esse comando vai criar e trocar para a nova branch
 2- Ir para sessao de listagem das branchs
 3- Inserir o nome da nova branch
 4- Confirmar a crianção dessa nova branch
-
-Caso queira  66666 continuar
+ Caso queira comer
